@@ -4,7 +4,8 @@ A movie rental web application
 
 # Technologies Used
 
-MongoDB
 Bootstrap
+MongoDB
+Express
 ReactJS
 Node
